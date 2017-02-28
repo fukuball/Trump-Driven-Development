@@ -7,6 +7,7 @@ A curated list of Trump Driven Development.
 - [maxbbraun/trump2cash](https://github.com/maxbbraun/trump2cash) - A stock trading bot powered by Trump tweets http://trump2cash.biz .
 - [ryanmcdermott/trump-speeches](https://github.com/ryanmcdermott/trump-speeches) - 1mb Archive of Donald Trump Speeches.
 - [TrumpTracker/trumptracker.github.io](https://github.com/TrumpTracker/trumptracker.github.io) - Open source for http://trumptracker.github.io/ .
+- [Mhyles/DonaldTrumpStockMonitor](https://github.com/Mhyles/DonaldTrumpStockMonitor) - Monitors Donald Trumps tweets and if a company name is within his tweets, monitors their stock levels for the next week.
 
 ## Tool
 
