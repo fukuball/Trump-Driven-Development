@@ -9,6 +9,10 @@ A curated list of Trump Driven Development.
 - [TrumpTracker/trumptracker.github.io](https://github.com/TrumpTracker/trumptracker.github.io) - Open source for http://trumptracker.github.io/ .
 - [Mhyles/DonaldTrumpStockMonitor](https://github.com/Mhyles/DonaldTrumpStockMonitor) - Monitors Donald Trumps tweets and if a company name is within his tweets, monitors their stock levels for the next week.
 
+## Machine Learning
+
+- [ppramesi/RoboTrumpDNN](https://github.com/ppramesi/RoboTrumpDNN) - Generating Donald Trump Speeches with Word2Vec and LSTM.
+
 ## Tool
 
 - [ivanseidel/Is-Now-Illegal](https://github.com/ivanseidel/Is-Now-Illegal) - A NERD protest against Trump's Immigration ban.
