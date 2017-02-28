@@ -13,6 +13,7 @@ A curated list of Trump Driven Development.
 
 - [ivanseidel/Is-Now-Illegal](https://github.com/ivanseidel/Is-Now-Illegal) - A NERD protest against Trump's Immigration ban.
 - [RobSpectre/Trump-Filter](https://github.com/RobSpectre/Trump-Filter) - A Chrome extension that removes Donald Trump from the Internet.
+- [mannynotfound/delete-trump](https://github.com/mannynotfound/delete-trump) - Automatically tell Donald Trump to delete his account.
 
 # How to contribute?
 
