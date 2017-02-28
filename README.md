@@ -10,6 +10,7 @@ A curated list of Trump Driven Development.
 - [Mhyles/DonaldTrumpStockMonitor](https://github.com/Mhyles/DonaldTrumpStockMonitor) - Monitors Donald Trumps tweets and if a company name is within his tweets, monitors their stock levels for the next week.
 - [PedramNavid/trump_speeches](https://github.com/PedramNavid/trump_speeches) - All of Trump's Speeches from June 2015 to November 9, 2016.
 - [BuzzFeedNews/trumpworld](https://github.com/BuzzFeedNews/trumpworld) - This repository contains the data behind TrumpWorld, as described in this BuzzFeed News article.
+- [brandtg/trump-data](https://github.com/brandtg/trump-data) - Collection of data from Donald Trump's 2016 presidential campaign.
 
 ## Front End
 
