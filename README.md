@@ -27,6 +27,10 @@ A curated list of Trump Driven Development.
 - [mannynotfound/delete-trump](https://github.com/mannynotfound/delete-trump) - Automatically tell Donald Trump to delete his account.
 - [kushaltirumala/trump-slackbot](https://github.com/kushaltirumala/trump-slackbot) - A Trump Bot for Slack.
 
+## Programming Language
+
+- [samshadwell/TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again
+
 # How to contribute?
 
 - Please make an individual pull request for each suggestion
