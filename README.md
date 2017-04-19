@@ -31,6 +31,10 @@ A curated list of Trump Driven Development.
 
 - [samshadwell/TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again
 
+## Version control
+
+- [thewarpaint/trumpmit](https://github.com/thewarpaint/trumpmit) - Make Git Commit Messages Great Again!
+
 # How to contribute?
 
 - Please make an individual pull request for each suggestion
